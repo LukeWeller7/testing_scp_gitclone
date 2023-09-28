@@ -12,7 +12,7 @@ sudo systemctl enable nginx
 
 sudo apt install git-all -y
 
-git clone https://github.com/LSF970/sparta_test_app.git
+git clone https://github.com/LukeWeller7/testing_scp_gitclone
 
 cd sparta_test_app
 
