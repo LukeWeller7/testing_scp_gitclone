@@ -14,4 +14,4 @@ npm install
 npm test
 
 
-Oh, brand-new text that I am adding to the Dev branch, let's see if this will go through to the main branch automatically
+Oh, brand-new text that I am adding to the Dev branch, let's see if this will go through to the main branch automatically.
