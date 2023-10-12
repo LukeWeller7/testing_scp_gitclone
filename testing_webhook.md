@@ -1,5 +1,7 @@
 The purpose of this file is to test out the connection to Jenkins and Github via a webhook
 
+This is the last test to make sure that my Jenkins set-up works properly.
+
 http://18.130.36.1:8080/github-webhook/
 
 https://github.com/LukeWeller7/testing_scp_gitclone.git
